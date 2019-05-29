@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Лекция 'ikiki'",
+    "stand" : "Стенд №1",
+    "company" : "СТС",
+    "category" : "Финтех",
+    "start_time" : "12:00",
+    "end_time" : "13:00"
+  },
+  {
+    "name": "Лекция 'azaza'",
+    "stand" : "Стенд №4",
+    "company" : "СCС",
+    "category" : "Финтех",
+    "start_time" : "13:00",
+    "end_time" : "14:00"
+  },
+  {
+    "name": "Лекция 'ololo'",
+    "stand" : "Стенд №2",
+    "company" : "СТСC",
+    "category" : "Не Фентех",
+    "start_time" : "13:00",
+    "end_time" : "14:00"
+  },
+  {
+    "name": "Лекция 'йййй'",
+    "stand" : "Стенд №0",
+    "company" : "СТСC",
+    "category" : "Не Фентех",
+    "start_time" : "12:00",
+    "end_time" : "14:00"
+  }
+]
