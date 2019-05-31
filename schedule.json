@@ -32,6 +32,30 @@
     "end_time" : "16:00"
   },
   {
+    "name": "Ne 'ololo'",
+    "stand" : "Стенд №2",
+    "company" : "QQQ",
+    "category" : "Экономика2",
+    "start_time" : "15:00",
+    "end_time" : "16:00"
+  },
+  {
+    "name": "Ne 'ololo'",
+    "stand" : "Стенд №2",
+    "company" : "QQQ",
+    "category" : "Экономика4",
+    "start_time" : "20:00",
+    "end_time" : "16:00"
+  },
+  {
+    "name": "Ne 'ololo'",
+    "stand" : "Стенд №2",
+    "company" : "QQQ",
+    "category" : "Экономика6",
+    "start_time" : "19:00",
+    "end_time" : "16:00"
+  },
+  {
     "name": "Лекция 'йййй'",
     "stand" : "Стенд №0",
     "company" : "СТСC",
