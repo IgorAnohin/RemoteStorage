@@ -24,6 +24,14 @@
     "end_time" : "14:00"
   },
   {
+    "name": "Ne 'ololo'",
+    "stand" : "Стенд №2",
+    "company" : "QQQ",
+    "category" : "Экономика",
+    "start_time" : "15:00",
+    "end_time" : "16:00"
+  },
+  {
     "name": "Лекция 'йййй'",
     "stand" : "Стенд №0",
     "company" : "СТСC",
