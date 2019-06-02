@@ -112,6 +112,22 @@
     "end_time" : "16:00"
   },
   {
+    "name": "Ne 'qqwer'",
+    "stand" : "Стенд №6",
+    "company" : "QQQ",
+    "category" : "Экономика9",
+    "start_time" : "01:03",
+    "end_time" : "16:00"
+  },
+  {
+    "name": "Ne 'QQQQ'",
+    "stand" : "Стенд №5",
+    "company" : "QQQ",
+    "category" : "Экономика9",
+    "start_time" : "01:05",
+    "end_time" : "16:00"
+  },
+  {
     "name": "Лекция 'йййй'",
     "stand" : "Стенд №0",
     "company" : "СТСC",
