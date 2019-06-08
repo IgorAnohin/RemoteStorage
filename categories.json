@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Выступление «NEVSKY PROSPEKT BRASS»",
+    "start_time" : "12:00",
+    "end_time" : "12:30",
+    "header" : "Музыка",
+    "description" : "Какие-то музыканты. Слышал бы я хоть одну их песню",
+    "place" : "Большая сцена"
+  },
+  {
+    "title": "Торжественное открытие",
+    "start_time" : "12:30",
+    "end_time" : "13:30",
+    "header" : "Торжественные церемонии",
+    "description" : "Приветственные слова",
+    "place" : "Большая сцена"
+  },
+  {
+    "title": "Работа в холдинге Ginza ProjectРабота в холдинге Ginza Project",
+    "start_time" : "14:00",
+    "end_time" : "15:30",
+    "header" : "Лекция",
+    "description" : "Анна СОТНИКОВА, генеральный директор восточного направления группы компаний «Ginza Project»",
+    "place" : "Лекторий"
+  },
+  {
+    "title": "Работа мечты - история проекта Roof Music Fest",
+    "start_time" : "15:00",
+    "end_time" : "16:00",
+    "header" : "Лекция",
+    "description" : "Кирилл ДАРОВСКИХ, генеральный директор Roof Music Group",
+    "place" : "Лекторий"
+  }
+]
