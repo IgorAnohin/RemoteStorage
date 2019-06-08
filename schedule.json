@@ -1,154 +1,30 @@
 [
   {
-    "name": "Лекция 'ikiki'",
-    "stand" : "Стенд №1",
-    "company" : "СТС",
-    "category" : "Финтех",
+    "title": "Выступление «NEVSKY PROSPEKT BRASS»",
     "start_time" : "12:00",
-    "end_time" : "13:00"
+    "end_time" : "12:30",
+    "header" : "Главная сцена",
+    "description" : "Какие-то музыканты. Слышал бы я хоть одну их песню"
   },
   {
-    "name": "Лекция 'azaza'",
-    "stand" : "Стенд №4",
-    "company" : "СCС",
-    "category" : "Финтех",
-    "start_time" : "13:00",
-    "end_time" : "14:00"
+    "title": "Торжественное открытие",
+    "start_time" : "12:30",
+    "end_time" : "13:30",
+    "header" : "Главная сцена",
+    "description" : "Приветственные слова"
   },
   {
-    "name": "Лекция 'ololo'",
-    "stand" : "Стенд №2",
-    "company" : "СТСC",
-    "category" : "Не Фентех",
-    "start_time" : "13:00",
-    "end_time" : "14:00"
+    "title": "Работа в холдинге Ginza ProjectРабота в холдинге Ginza Project",
+    "start_time" : "14:00",
+    "end_time" : "15:30",
+    "header" : "Лекторий",
+    "description" : "Анна СОТНИКОВА, генеральный директор восточного направления группы компаний «Ginza Project»"
   },
   {
-    "name": "Ne 'ololo'",
-    "stand" : "Стенд №2",
-    "company" : "QQQ",
-    "category" : "Экономика",
+    "title": "Работа мечты - история проекта Roof Music Fest",
     "start_time" : "15:00",
-    "end_time" : "16:00"
-  },
-  {
-    "name": "Ne 'ololo'",
-    "stand" : "Стенд №2",
-    "company" : "QQQ",
-    "category" : "Экономика2",
-    "start_time" : "15:00",
-    "end_time" : "16:00"
-  },
-  {
-    "name": "Ne 'ololo'",
-    "stand" : "Стенд №2",
-    "company" : "QQQ",
-    "category" : "Экономика4",
-    "start_time" : "20:00",
-    "end_time" : "16:00"
-  },
-  {
-    "name": "Ne 'ololo'",
-    "stand" : "Стенд №2",
-    "company" : "QQQ",
-    "category" : "Экономика6",
-    "start_time" : "19:00",
-    "end_time" : "16:00"
-  },
-  {
-    "name": "Ne 'ololo'",
-    "stand" : "Стенд №2",
-    "company" : "QQQ",
-    "category" : "Экономика6",
-    "start_time" : "22:00",
-    "end_time" : "16:00"
-  },
-  {
-    "name": "Ne 'ololo'",
-    "stand" : "Стенд №2",
-    "company" : "QQQ",
-    "category" : "Экономика6",
-    "start_time" : "24:00",
-    "end_time" : "16:00"
-  },
-  {
-    "name": "Ne 'qqwer'",
-    "stand" : "Стенд №6",
-    "company" : "QQQ",
-    "category" : "Экономика7",
-    "start_time" : "00:15",
-    "end_time" : "16:00"
-  },
-  {
-    "name": "Ne 'qqwer'",
-    "stand" : "Стенд №6",
-    "company" : "QQQ",
-    "category" : "Экономика8",
-    "start_time" : "00:35",
-    "end_time" : "16:00"
-  },
-  {
-    "name": "Ne 'QQQQ'",
-    "stand" : "Стенд №5",
-    "company" : "QQQ",
-    "category" : "Экономика8",
-    "start_time" : "00:45",
-    "end_time" : "16:00"
-  },
-  {
-    "name": "Ne 'qqwer'",
-    "stand" : "Стенд №6",
-    "company" : "QQQ",
-    "category" : "Экономика8",
-    "start_time" : "00:52",
-    "end_time" : "16:00"
-  },
-  {
-    "name": "Ne 'QQQQ'",
-    "stand" : "Стенд №5",
-    "company" : "QQQ",
-    "category" : "Экономика8",
-    "start_time" : "00:55",
-    "end_time" : "16:00"
-  },
-  {
-    "name": "Ne 'qqwer'",
-    "stand" : "Стенд №6",
-    "company" : "QQQ",
-    "category" : "Экономика9",
-    "start_time" : "01:03",
-    "end_time" : "16:00"
-  },
-  {
-    "name": "Ne 'QQQQ'",
-    "stand" : "Стенд №5",
-    "company" : "QQQ",
-    "category" : "Экономика9",
-    "start_time" : "01:05",
-    "end_time" : "16:00"
-  },
-  {
-    "name": "Ne 'qqwer'",
-    "stand" : "Стенд №6",
-    "company" : "QQQ",
-    "category" : "Экономика10",
-    "start_time" : "01:08",
-    "end_time" : "16:00"
-  },
-  {
-    "name": "Ne 'QQQQ'",
-    "stand" : "Стенд №5",
-    "company" : "QQQ",
-    "category" : "Экономика10",
-    "start_time" : "01:10",
-    "end_time" : "16:00"
-  },
-  {
-    "name": "Лекция 'йййй'",
-    "stand" : "Стенд №0",
-    "company" : "СТСC",
-    "category" : "Не Фентех",
-    "start_time" : "12:00",
-    "end_time" : "14:00"
+    "end_time" : "16:00",
+    "header" : "Лекторий",
+    "description" : "Кирилл ДАРОВСКИХ, генеральный директор Roof Music Group"
   }
 ]
