@@ -30,5 +30,13 @@
     "header" : "Лекция",
     "description" : "Кирилл ДАРОВСКИХ, генеральный директор Roof Music Group",
     "place" : "Лекторий"
+  },
+  {
+    "title": "Тест уведомлений",
+    "start_time" : "03:45",
+    "end_time" : "15:30",
+    "header" : "Лекция",
+    "description" : "-_-",
+    "place" : "Лекторий"
   }
 ]
