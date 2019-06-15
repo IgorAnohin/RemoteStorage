@@ -9,26 +9,26 @@
   },
   {
     "title": "Токио CITY",
-    "start_time": "Весь",
-    "end_time": "День",
+    "start_time": "12:00",
+    "end_time": "18:00",
     "header": "Ресторанный бизнес",
     "description": "",
     "place": "Стенды работодателей"
   },
   {
     "title": "Евразия",
-    "start_time": "Весь",
-    "end_time": "День",
+    "start_time": "12:00",
+    "end_time": "18:00",
     "header": "Ресторанный бизнес",
     "description": "",
     "place": "Стенды работодателей"
   },
   {
-    "title": "Работа в холдинге Ginza ProjectРабота в холдинге Ginza Project. Презентация проекта «Ginza School»",
+    "title": "Работа в холдинге Ginza Project. Презентация проекта Ginza School",
     "start_time": "14:00",
     "end_time": "15:00",
     "header": "Ресторанный бизнес",
-    "description": "Анна СОТНИКОВА, генеральный директор восточного направления группы компаний «Ginza Project»",
+    "description": "Анна СОТНИКОВА, генеральный директор восточного направления группы компаний Ginza Project",
     "place": "Лекторий"
   },
   {
@@ -40,7 +40,7 @@
     "place": "Главная сцена"
   },
   {
-    "title": "Деловые игры SWISS QUIZ",
+    "title": "SWISS QUIZ",
     "start_time": "16.00",
     "end_time": "16.40",
     "header": "Ресторанный бизнес",
@@ -60,7 +60,7 @@
     "start_time": "15:30",
     "end_time": "16:00",
     "header": "Культура",
-    "description": "Сергей и Владислав ШИКИНЫ, художники издательства «Домино», цифровые художники-иллюстраторы",
+    "description": "Издательство Азбука-Аттикус",
     "place": "Зона мастер-классов"
   },
   {
@@ -81,48 +81,48 @@
   },
   {
     "title": "Veeam Software",
-    "start_time": "Весь",
-    "end_time": "День",
+    "start_time": "12:00",
+    "end_time": "18:00",
     "header": "IT",
     "description": "",
     "place": "Стенды работодателей"
   },
   {
     "title": "Первый бит",
-    "start_time": "Весь",
-    "end_time": "День",
+    "start_time": "12:00",
+    "end_time": "18:00",
     "header": "IT",
     "description": "",
     "place": "Стенды работодателей"
   },
   {
     "title": "Цифровое проектирование",
-    "start_time": "Весь",
-    "end_time": "День",
+    "start_time": "12:00",
+    "end_time": "18:00",
     "header": "IT",
     "description": "",
     "place": "Стенды работодателей"
   },
   {
     "title": "Мегафон",
-    "start_time": "Весь",
-    "end_time": "День",
+    "start_time": "12:00",
+    "end_time": "18:00",
     "header": "IT",
     "description": "",
     "place": "Стенды работодателей"
   },
   {
     "title": "Дом.ру",
-    "start_time": "Весь",
-    "end_time": "День",
+    "start_time": "12:00",
+    "end_time": "18:00",
     "header": "IT",
     "description": "",
     "place": "Стенды работодателей"
   },
   {
     "title": "Tele2",
-    "start_time": "Весь",
-    "end_time": "День",
+    "start_time": "12:00",
+    "end_time": "18:00",
     "header": "IT",
     "description": "",
     "place": "Стенды работодателей"
@@ -144,7 +144,7 @@
     "place": "Лекторий"
   },
   {
-    "title": "«Хронограф», «Чепухато», «Что? Где? Когда?», «Техностратегия» мини-квест «Потерянный секрет»",
+    "title": "«Хронограф», «Чепухатом», «Что? Где? Когда?», «Техностратегия» мини-квест «Потерянный секрет»",
     "start_time": "12:00",
     "end_time": "13:00",
     "header": "Наука и техника",
@@ -156,7 +156,7 @@
     "start_time": "13:00",
     "end_time": "13:30",
     "header": "Наука и техника",
-    "description": "Евгений ГУДОВ, основатель Планетария №1 проекта «Люмьер Холл»",
+    "description": "Евгений ГУДОВ, основатель Планетария №1, проекта «Люмьер Холл»",
     "place": "Лекторий"
   },
   {
@@ -169,24 +169,24 @@
   },
   {
     "title": "Армалит",
-    "start_time": "Весь",
-    "end_time": "День",
+    "start_time": "12:00",
+    "end_time": "18:00",
     "header": "Наука и техника",
     "description": "",
     "place": "Стенды работодателей"
   },
   {
     "title": "Северная нефть",
-    "start_time": "Весь",
-    "end_time": "День",
+    "start_time": "12:00",
+    "end_time": "18:00",
     "header": "Наука и техника",
     "description": "",
     "place": "Стенды работодателей"
   },
   {
     "title": "Лукойл",
-    "start_time": "Весь",
-    "end_time": "День",
+    "start_time": "12:00",
+    "end_time": "18:00",
     "header": "Наука и техника",
     "description": "",
     "place": "Стенды работодателей"
@@ -209,67 +209,59 @@
   },
   {
     "title": "Рольф",
-    "start_time": "Весь",
-    "end_time": "День",
+    "start_time": "12:00",
+    "end_time": "18:00",
     "header": "Ритейл",
     "description": "",
     "place": "Стенды работодателей"
   },
   {
     "title": "Prisma",
-    "start_time": "Весь",
-    "end_time": "День",
+    "start_time": "12:00",
+    "end_time": "18:00",
     "header": "Ритейл",
     "description": "",
     "place": "Стенды работодателей"
   },
   {
     "title": "Stayer",
-    "start_time": "Весь",
-    "end_time": "День",
+    "start_time": "12:00",
+    "end_time": "18:00",
     "header": "Ритейл",
     "description": "",
     "place": "Стенды работодателей"
   },
   {
     "title": "Лента",
-    "start_time": "Весь",
-    "end_time": "День",
+    "start_time": "12:00",
+    "end_time": "18:00",
     "header": "Ритейл",
     "description": "",
     "place": "Стенды работодателей"
   },
   {
     "title": "Befree",
-    "start_time": "Весь",
-    "end_time": "День",
+    "start_time": "12:00",
+    "end_time": "18:00",
     "header": "Ритейл",
     "description": "",
     "place": "Стенды работодателей"
   },
   {
     "title": "Concept Club",
-    "start_time": "Весь",
-    "end_time": "День",
+    "start_time": "12:00",
+    "end_time": "18:00",
     "header": "Ритейл",
     "description": "",
     "place": "Стенды работодателей"
   },
   {
     "title": "Большой гостиный двор",
-    "start_time": "Весь",
-    "end_time": "День",
+    "start_time": "12:00",
+    "end_time": "18:00",
     "header": "Ритейл",
     "description": "",
     "place": "Стенды работодателей"
-  },
-  {
-    "title": "Fun zona «Карьерное будущее»",
-    "start_time": "14:00", 
-    "end_time": "14:30", 
-    "header": "Ритейл",
-    "description": "Торговая сеть «Пятёрочка», X5 Retail Group N.V.",
-    "place": "Зона деловых игр"
   },
   {
     "title": "Бизнес-игра «Стратегия X5»",
@@ -292,7 +284,7 @@
     "start_time": "17:00",
     "end_time": "17:30",
     "header": "Ритейл",
-    "description": "Дина ШАРШАКОВА, специалист по управлению персоналом магазина ИКЕА Парнас Лидия САВЕНКО, специалист по управлению персоналом магазина ИКЕА Парнас",
+    "description": "Дина ШАРШАКОВА, специалист по управлению персоналом магазина ИКЕА Парнас. Лидия САВЕНКО, специалист по управлению персоналом магазина ИКЕА Парнас",
     "place": "Стенды работодателей"
   },
   {
@@ -332,7 +324,7 @@
     "start_time": "16:40",
     "end_time": "17:20",
     "header": "Свое дело",
-    "description": "Семен ЗУЕВ, владелец Маркетинговой студии (среди клиентов: Бизнес Молодость, Структуры группы РОСНАНО, Waves Booking, Avajar, Actum и др.)",
+    "description": "Семен ЗУЕВ, владелец Маркетинговой студии",
     "place": "Зона деловых игр"
   },
   {
@@ -385,32 +377,32 @@
   },
   {
     "title": "Альфа-Банк",
-    "start_time": "Весь",
-    "end_time": "День",
+    "start_time": "12:00",
+    "end_time": "18:00",
     "header": "Первая работа",
     "description": "",
     "place": "Стенды работодателей"
   },
   {
     "title": "EY",
-    "start_time": "Весь",
-    "end_time": "День",
+    "start_time": "12:00",
+    "end_time": "18:00",
     "header": "Первая работа",
     "description": "",
     "place": "Стенды работодателей"
   },
   {
     "title": "Sokos",
-    "start_time": "Весь",
-    "end_time": "День",
+    "start_time": "12:00",
+    "end_time": "18:00",
     "header": "Первая работа",
     "description": "",
     "place": "Стенды работодателей"
   },
   {
     "title": "Colliers International",
-    "start_time": "Весь",
-    "end_time": "День",
+    "start_time": "12:00",
+    "end_time": "18:00",
     "header": "Первая работа",
     "description": "",
     "place": "Стенды работодателей"
